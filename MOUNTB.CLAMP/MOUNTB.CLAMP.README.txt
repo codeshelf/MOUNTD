@@ -2,7 +2,7 @@ MOUNTB.CLAMP.README
 
 for PONOKO  
 
-use file - P2x400 ClampsK.eps
+use file - P2x400 Clamps.eps
 
 material - BLACK DELRIN
 
