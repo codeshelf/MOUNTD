@@ -1,0 +1,13 @@
+MOUNTD.60.README
+
+for PONOKO  
+
+use file - P2-140xMOUNTD.60.CLIP.BLACK.eps
+
+material - BLACK DELRIN
+
+thickness - .193 in
+
+sheet size - P2
+
+yield - 140
