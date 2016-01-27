@@ -1,0 +1,13 @@
+MOUNTD.90.README
+
+for PONOKO  
+
+use file - MOUNTD.90_X88_P2_0.193WHITE_DELRIN.eps
+
+material - WHITE DELRIN
+
+thickness - .193 in
+
+sheet size - P2
+
+yield - 88
